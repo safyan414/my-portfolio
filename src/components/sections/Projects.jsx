@@ -29,7 +29,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://www.calai.app/"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -55,7 +55,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://steppi.com/"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -83,7 +83,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://phoneskope.com/?gad_source=1&gad_campaignid=21172689753&gbraid=0AAAAADdseAa8aiNmKdvQ8Ey2kdIPgM1XM&gclid=CjwKCAjwi-DBBhA5EiwAXOHsGZPFMJj9T_c1t-xnsGXfwBw2JCyEIYJCDIncC0ScNIlUbsbjBiUFjRoCz7QQAvD_BwE"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -111,7 +111,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://hiiker.app/app"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -139,7 +139,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://apps.apple.com/us/app/ipaparazzo/id1534574519"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -167,7 +167,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://dimitra.io/connected-farmer-app/"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -195,7 +195,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://play.google.com/store/apps/details?id=com.urban.services&hl=en"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
@@ -223,7 +223,7 @@ export const Projects = () => {
                         </div>
 
                         <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">
+                            <a href={"https://dshairtrack.com/"} className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                 {" "}
                                 View Project &rarr;
                             </a>
